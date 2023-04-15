@@ -1,4 +1,4 @@
-import bodyStats
+	import bodyStats
 import symptomsTest
 
 covidSuspicionCounter=0

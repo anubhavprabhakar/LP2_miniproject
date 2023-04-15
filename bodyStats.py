@@ -6,6 +6,6 @@ def takeInput():
 		print(question[i][0])
 		ans = float(input())
 		question[i].append(ans)
-	print(question)
+
 		
 		
